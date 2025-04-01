@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Ria Dhiman
 
-<!--
-**RIA-DHIMAN/RIA-DHIMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **BCA Student | Web Developer | React Enthusiast**  
+🎨 Passionate about **pixel-perfect** UI designs and **user-friendly** experiences.  
+💡 Continuously learning and refining my skills to build impactful digital experiences.  
+🔭 Exploring.  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React  
+- **Backend**: PHP, MySQL, MongoDB
+- **Tools**: Git, VS Code, Figma, Canva  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Key Strengths  
+✔ Problem-solving and analytical skills    
+✔ Precision-focused with pixel-perfect design expertise    
+✔ Excellent communication and collaborative teamwork     
+✔ Adaptable, quick learner, and tech enthusiast     
+
+## 📫 Connect With Me
+- 📧 Email: riadhiman3729@gmail.com 
+
+---
+ **💡 "Every line of code is a step towards innovation—build, break, learn, and create something remarkable."**  
