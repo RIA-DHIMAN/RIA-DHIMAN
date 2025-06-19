@@ -6,7 +6,7 @@
 🔭 Exploring new technologies to expand my expertise.  
 
 ## 🚀 Tech Stack  
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React , Next Js
 - **Backend:** PHP, MySQL, MongoDB  
 - **Tools:** Git, VS Code, Figma, Canva  
 
