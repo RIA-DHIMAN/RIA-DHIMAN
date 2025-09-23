@@ -18,7 +18,7 @@
 
 ## 📫 Connect With Me  
 - 📧 **Email:** riadhiman3729@gmail.com  
-- 💼 **LinkedIn:** linkedin.com/in/ria-dhiman-06a114306
+- 💼 **LinkedIn:** linkedin.com/in/riya-dhiman-06a114306
 - 🌐 **Portfolio:** riadhiman.in
 ---  
 
