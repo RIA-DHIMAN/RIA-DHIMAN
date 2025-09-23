@@ -22,4 +22,4 @@
 - 🌐 **Portfolio:** riadhiman.in
 ---  
 
-💡**"Every line of code is a step towards innovation—build, break, learn, and create something remarkable."**💡 
+💡**"Every line of code is a step towards innovation - build, break, learn, and create something remarkable."**💡 
