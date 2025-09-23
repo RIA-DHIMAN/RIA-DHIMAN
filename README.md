@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ria Dhiman  
 
-🚀 **BCA Student | Web Developer | React Enthusiast**  
+🚀 **BCA Graduate | Web Developer | React Enthusiast**  
 🎨 Passionate about **pixel-perfect UI designs** and **user-friendly experiences**.  
 💡 Continuously learning and refining my skills to build impactful digital experiences.  
 🔭 Exploring new technologies to expand my expertise.  
