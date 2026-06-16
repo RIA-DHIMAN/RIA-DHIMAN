@@ -1,4 +1,4 @@
-# Ria Dhiman
+# Riya Dhiman
 
 ### Front-End Developer · React · Next.js · UI/UX
 
